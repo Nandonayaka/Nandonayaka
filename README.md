@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nando coy</h2>
+<h2 align="left">Hi 👋! My name Nando coy and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/apcylb"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
